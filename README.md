@@ -19,10 +19,10 @@ The Reactor Chat Server has the following dependencies:</div>
 ## Installation</div>
 
 To install the Reactor Chat Server, follow the steps below:</div>
-</div>
-1. Clone the repository: `git clone <git@github.com:BatelCohen7/Reactor_Chat_Server.git>`</div>
-2. Navigate to the project directory: `cd reactor-chat-server`</div>
-3. Compile the server using the provided Makefile: `make`</div>
+
+1. Clone the repository: `git clone <git@github.com:BatelCohen7/Reactor_Chat_Server.git>`.</div>
+2. Navigate to the project directory: `cd reactor-chat-server`.</div>
+3. Compile the server using the provided Makefile: `make`.</div>
 
 </div>
 ## API</div>
