@@ -43,6 +43,8 @@ The Reactor Chat Server can be configured by modifying the server source code (`
 ## Running</div>
 
 Run the reactor server:  ./react_server</div>
+![12](https://github.com/BatelCohen7/Reactor_Chat_Server/assets/93344134/a1428866-f898-44b7-8615-b27525c5fb4d)
+
 
 ## Author: </div>
 [Batel Cohen Yerushalmi](https://github.com/BatelCohen7 "Batel Cohen Yerushalmi") 
