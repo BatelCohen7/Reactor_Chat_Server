@@ -6,23 +6,23 @@ The **Reactor Chat Server** is an implementation of a chat server using the Reac
 
 ## Introduction</div>
 
-The** Reactor Chat Server** implements a server-client architecture where multiple clients can connect to the server and exchange messages.</div> It utilizes the Reactor pattern to efficiently handle multiple client connections using a single thread.</div> The server leverages the `select` or `poll` mechanism to monitor and process events on the registered file descriptors (client sockets).</div>
+The **Reactor Chat Server** implements a server-client architecture where multiple clients can connect to the server and exchange messages.</div> It utilizes the Reactor pattern to efficiently handle multiple client connections using a single thread.</div> The server leverages the `select` or `poll` mechanism to monitor and process events on the registered file descriptors (client sockets).</div>
 
 ## Dependencies</div>
 
 The Reactor Chat Server has the following dependencies:</div>
-</div>
-- C compiler (GCC) </div>
-- Linux machine (Ubuntu 22.04 ) </div>
-- Make </div>
+
+- C compiler (GCC)</div>
+- Linux machine (Ubuntu 22.04 )</div>
+- Make</div>
 
 ## Installation</div>
 
 To install the Reactor Chat Server, follow the steps below:</div>
 </div>
-1. Clone the repository: `git clone <git@github.com:BatelCohen7/Reactor_Chat_Server.git>` </div>
-2. Navigate to the project directory: `cd reactor-chat-server` </div>
-3. Compile the server using the provided Makefile: `make` </div>
+1. Clone the repository: `git clone <git@github.com:BatelCohen7/Reactor_Chat_Server.git>`</div>
+2. Navigate to the project directory: `cd reactor-chat-server`</div>
+3. Compile the server using the provided Makefile: `make`</div>
 
 </div>
 ## API</div>
