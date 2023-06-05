@@ -2,7 +2,7 @@
 # Reactor Chat Server</div>
 Task 4 : Linux practice - Operating systems course.</div>
 </div>
-The **Reactor Chat Server** is an implementation of a chat server using the Reactor pattern.</div> It supports an unlimited number of clients and allows clients to connect and exchange messages in a chat-like environment.</div>
+The Reactor Chat Server is an implementation of a chat server using the Reactor pattern.</div> It supports an unlimited number of clients and allows clients to connect and exchange messages in a chat-like environment.</div>
 
 ## Introduction</div>
 
