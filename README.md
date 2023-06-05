@@ -24,11 +24,11 @@ To install the Reactor Chat Server, follow the steps below:</div>
 2. Navigate to the project directory: `cd reactor-chat-server`.</div>
 3. Compile the server using the provided Makefile: `make`.</div>
 
-</div>
+
 ## API</div>
 
 The Reactor Chat Server provides the following API functions:</div>
-</div>
+
 - `void* createReactor()`: Creates a new Reactor instance and returns a pointer to it.</div>
 - `void stopReactor(void* this)`: Stops the Reactor if it is active.</div>
 - `void startReactor(void* this)`: Starts the Reactor and begins handling client connections.</div>
